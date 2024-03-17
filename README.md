@@ -3,3 +3,8 @@
 # Discord Bot With NodeJS
 
 Here's the Sample Code for the Discord Bot. You can use it as a Template and customize to make your own Bot.
+
+## Resource: 
+
+Check out the Article to understand how the Project actually Works: 
+https://arindam1729.hashnode.dev/create-a-discord-bot-with-nodejs
